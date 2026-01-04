@@ -20,7 +20,11 @@ This project serves as a front-end portfolio piece demonstrating e-commerce layo
 
 
 
-Uploading bandicam 2026-01-04 19-58-06-178.mp4…
+
+
+https://github.com/user-attachments/assets/89bfa368-20a2-40e8-a480-167e7c531f7f
+
+
 
 
 
