@@ -18,13 +18,11 @@ Ace Athlete is designed to showcase a dynamic online store focused on performanc
 
 This project serves as a front-end portfolio piece demonstrating e-commerce layout structure, product presentation, and branding.
 
-![Homepage Banner](https://via.placeholder.com/800x450.png?text=Hero+Banner+&+Navigation)  
-*Hero section with tagline and call-to-action*
 
-![Products Section](https://via.placeholder.com/800x450.png?text=Sale+&+New+Arrivals+Preview)  
-*Featured products with prices and discounts*
+https://github.com/user-attachments/assets/af0e180d-089c-4527-b426-8d1fcf8f8af5
 
-*(Capture actual screenshots from the live site and upload them to the repo for a professional look.)*
+
+
 
 ## Technologies Used
 
