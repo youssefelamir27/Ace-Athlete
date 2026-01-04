@@ -19,7 +19,11 @@ Ace Athlete is designed to showcase a dynamic online store focused on performanc
 This project serves as a front-end portfolio piece demonstrating e-commerce layout structure, product presentation, and branding.
 
 
-https://github.com/user-attachments/assets/af0e180d-089c-4527-b426-8d1fcf8f8af5
+
+Uploading bandicam 2026-01-04 19-58-06-178.mp4…
+
+
+
 
 
 
